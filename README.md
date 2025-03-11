@@ -1,4 +1,4 @@
-- 👋 Annyeong, I’m @ttalgigongju
+- 👋 hi
 - 🌱 I’m currently learning Python and Javascript
 - 💞️ I <3 Strawberries
 - 📫 strawberrygongjunim@gmail.com
